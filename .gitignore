@@ -1,0 +1,4 @@
+slm
+*.o
+training.txt
+.vscode/
